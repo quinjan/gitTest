@@ -1,17 +1,13 @@
-displayMenu()
-	*Prompts user to input username and password
-	*store input in variable user for username and pass for password
-	*runs the int checker
-	*Display error message if incorrect
-	*Display welcome message with complete name if correct
-reader()
-	*Reads the csv file and store the data in 3 global variables
-		usernames, passwords and names
-int checker(username, password)
-	*checks the input to the global variables
-	*return the index of the correct user and return 0 if incorrect
-===========================================================================
-displayMenu = 	Ocampo - first 3 asterisk
-		Bautista - last 2 asterisk
-reader = Neulaendner
-checker = Tumangday
+read()
+	*reads the csv file and store in the globla variables username, password and names
+login()
+	*checks if the input is correct
+args
+	*use the argparser to put an argument where username and password is input
+generte lots of accounts
+	*generate a csv file that has 100 users
+=================================================================================
+read() - Nuelaendner
+login() - Bautista
+args - Ocampo
+generate - Tumangday

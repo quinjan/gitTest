@@ -1,5 +1,1 @@
-user1,password1,fullname 1
-user2,password2,fullname 2
-user3,password3,fullname 3
-user4,password4,fullname 4
-user5,password5,fullname 5
+username,password,name
