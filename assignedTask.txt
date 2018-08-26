@@ -1,0 +1,11 @@
+displayMenu()
+	*Prompts user to input username and password
+	*store input in variable user for username and pass for password
+	*runs the int checker
+	*Display error message if incorrect
+	*Display welcome message with complete name if correct
+reader()
+	*Reads the csv file and store the data in 3 global variables
+		usernames, passwords and names
+int checker(username, password)
+	*checks the input to the global variables
