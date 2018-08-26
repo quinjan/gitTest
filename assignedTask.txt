@@ -9,3 +9,9 @@ reader()
 		usernames, passwords and names
 int checker(username, password)
 	*checks the input to the global variables
+	*return the index of the correct user and return 0 if incorrect
+===========================================================================
+displayMenu = 	Ocampo - first 3 asterisk
+		Bautista - last 2 asterisk
+reader = Neulaendner
+checker = Tumangday
